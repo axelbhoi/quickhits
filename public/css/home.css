@@ -1,0 +1,131 @@
+            {
+                margin:0;
+                padding:0;
+            }
+            body{
+                font-family:Arial;
+                background-image: URL('images/bg.png');
+				background-repeat:repeat-y repeat-x;
+            }
+            a{
+                color:#444;
+            }
+            a:hover{
+                color:#999;
+            }
+            .title{
+                width:350px;
+                height:152px;
+                position:absolute;
+                top:10px;
+                background:transparent url(images/Logo.png) no-repeat top left;
+            }
+            
+            #content{
+                margin:0 auto;
+            }
+            .reference{
+                clear:both;
+                top:180px;
+                left:10px;
+                position:absolute;
+                text-align:left;
+                width:500px;
+                padding:20px;
+                background-color:#fff;
+                -moz-box-shadow:1px 3px 15px #ddd;
+                -webkit-box-shadow:1px 3px 15px #ddd;
+                box-shadow:1px 3px 15px #ddd;
+            }
+			.navigation{
+                top:15px;
+                right:10px;
+                position:absolute;
+                text-align:right;
+                width:400px;
+                padding:20px;
+                background-color:#fff;
+                -moz-box-shadow:1px 3px 15px #ddd;
+                -webkit-box-shadow:1px 3px 15px #ddd;
+                box-shadow:1px 3px 15px #ddd;								
+            }
+            .reference p a{
+                text-transform:uppercase;
+                text-shadow:1px 1px 1px #fff;
+                color:#666;
+                text-decoration:none;
+                font-size:10px;
+            }
+            .reference p a:hover{
+                color:#333;
+            }
+			.navigation li{
+				float: right;
+				list-style: none;
+				padding: 0 23px 0 23px;
+			}            {
+                margin:0;
+                padding:0;
+            }
+            body{
+                font-family:Arial;
+                background-image: URL('../images/bg.png');
+                background-repeat:repeat-y repeat-x;
+            }
+            a{
+                color:#444;
+            }
+            a:hover{
+                color:#999;
+            }
+            .title{
+                width:350px;
+                height:152px;
+                position:absolute;
+                top:10px;
+                background:transparent url(../images/Logo.png) no-repeat top left;
+            }
+            
+            #content{
+                margin:0 auto;
+            }
+            .reference{
+                clear:both;
+                top:180px;
+                left:10px;
+                position:absolute;
+                text-align:left;
+                width:500px;
+                padding:20px;
+                background-color:#fff;
+                -moz-box-shadow:1px 3px 15px #ddd;
+                -webkit-box-shadow:1px 3px 15px #ddd;
+                box-shadow:1px 3px 15px #ddd;
+            }
+            .navigation{
+                top:15px;
+                right:10px;
+                position:absolute;
+                text-align:right;
+                width:400px;
+                padding:20px;
+                background-color:#fff;
+                -moz-box-shadow:1px 3px 15px #ddd;
+                -webkit-box-shadow:1px 3px 15px #ddd;
+                box-shadow:1px 3px 15px #ddd;                               
+            }
+            .reference p a{
+                text-transform:uppercase;
+                text-shadow:1px 1px 1px #fff;
+                color:#666;
+                text-decoration:none;
+                font-size:10px;
+            }
+            .reference p a:hover{
+                color:#333;
+            }
+            .navigation li{
+                float: right;
+                list-style: none;
+                padding: 0 23px 0 23px;
+            }
