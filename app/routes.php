@@ -7,3 +7,6 @@ Route::get('/', function()
 
 Route::get('home','MainController@home');
 
+Route::get('contact','MainController@contact');
+
+Route::post('send/email', 'MainController@email');
